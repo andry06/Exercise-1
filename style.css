@@ -1,0 +1,45 @@
+* {
+    margin:0px;
+    padding: 0px;
+    box-sizing: 0;
+    font-family: sans-serif;
+}
+
+div.container{
+    margin : 50px;
+    margin-left: 60px;
+}
+
+.box1{
+    background:green;
+    display: inline-block;
+    width: 35%;
+    height: 440px;
+}
+.box2{
+    background:green;
+    display: inline-block;
+    width: 64%;
+    height: 440px;
+}
+
+img.foto{
+    width: 100%;
+}
+
+div.box2 table {
+    margin: 20px;
+}
+
+div.box2 table tr td{
+    color:white;
+    padding : 5px;
+    font-size: 18px;
+}
+
+
+div.box2 table tr td.judul{
+    color:yellow;
+    padding-bottom : 35px;
+    text-align: center;
+}
